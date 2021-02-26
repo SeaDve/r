@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+<h1 align="center">
+	<img src="cover.jpg" alt="Blanket" width="720" height="416"/><br>
+</h1>
 
-You can use the [editor on GitHub](https://github.com/SeaDve/r/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# WHAT ARE THE BENEFITS OF DISTANCE LEARNING
+Magistrates, ladies and gentlemen, and youths of all ages. We knew that we are all settling in a decent life before this pandemic crushed the sleeping royalty in our places. This pandemic has certainly transformed us in various manners. 
+  
+## But, is it the world changing us or it is we changing the world?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Today, allow us, **Crusaders**, to introduce to you the different benefits of distance learning. Not only for the students but also to the different educational institutes. Let's begin with the following points:
 
-### Markdown
+### ABILITY TO ADAPAT AND ACHIEVE EQUALITY
+In the distance learning process, you gain independence to engage with the build quality. Rather than sticking with a set timetable, you should arrange your cognitive development according to your convenience.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### ENCOURAGEMENT FOR INDIVIDUALITY
+Distance learning enables you to empower yourself to grow because of the lack of a conventional teacher to direct you.
 
-```markdown
-Syntax highlighted code block
+### CAPABILITY TO SELECT
+Without maintaining a daily schedule of education, various forms of distance learning allow you to set your learning schedule according to your convenience.
 
-# Header 1
-## Header 2
-### Header 3
+### EASY TO CONNECT
+Without thinking about the stuff you might miss, it will be simpler for individuals to learn and have connectivity. Particularly for those who struggle to work in a noisy environment, it can be very beneficial.
 
-- Bulleted
-- List
+### EARN AS YOU LEARN
+As distance education can facilitate both education and earn, you will continue to earn your wealth along with enhancing your qualifications.
 
-1. Numbered
-2. List
+### SAVES TIME AND MONEY
+By joining a distance learning course you can save money and time spent velling to the nearby educational institution. Distance learning allows you to access your learning center online without any additional cost.
 
-**Bold** and _Italic_ and `Code` text
+### QUICK ACCESS TO EXPERTS
+Even though they're not based in your town or state, distance education through video conferencing will provide you enhanced chance to connect the expertise in your program. They can instantly get acquainted with you and express their perspectives and skills with you from every area of the globe.
 
-[Link](url) and ![Image](src)
-```
+### DIGITAL EXPEDITIONS
+Video conferencing enables distance learning learners to visit the place that is relevant to them and enjoy the pleasure much better than a comprehensive plan. These immersive trips enable you to visit places you may never have conceived of.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+We hope that you learned something valuable today as we share significant insights and thoughts about this topic. We are all hoping to see every one of you looking at the brighter side of life instead of being stuck in the darkness. Turn your fear into a new step of growth and development. Thank you!
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SeaDve/r/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### CRUSADERS OF DIVERGENCE (11-HUMSS PALMA)
+  * Lei Andrew Relojas
+  * Allanis Danan
+  * Shelvin Reyes
+  * Ranier Pontillas
+  * Jhan Christopher Postor
