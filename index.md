@@ -1,3 +1,8 @@
+---
+title: My First Page
+layout: default
+---
+
 <h1 align="center">
 	<img src="cover.jpg" alt="Blanket"/><br>
 </h1>
