@@ -18,7 +18,7 @@ Today, allow us, **Crusaders**, to introduce to you the different benefits of di
 	<img src="infographics.jpg" alt="Blanket" style="max-width=100%;"/><br>
 </h1>
 
-### ABILITY TO ADAPAT AND ACHIEVE EQUALITY
+### ABILITY TO ADAPT AND ACHIEVE EQUALITY
 In the distance learning process, you gain independence to engage with the build quality. Rather than sticking with a set timetable, you should arrange your cognitive development according to your convenience.
 
 ### ENCOURAGEMENT FOR INDIVIDUALITY
