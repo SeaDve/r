@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img src="cover.jpg" alt="Blanket" width="720" height="416"/><br>
+	<img src="cover.jpg" alt="Blanket"/><br>
 </h1>
 
 # WHAT ARE THE BENEFITS OF DISTANCE LEARNING
@@ -8,6 +8,10 @@ Magistrates, ladies and gentlemen, and youths of all ages. We knew that we are a
 ## But, is it the world changing us or it is we changing the world?
 
 Today, allow us, **Crusaders**, to introduce to you the different benefits of distance learning. Not only for the students but also to the different educational institutes. Let's begin with the following points:
+
+<h1 align="center">
+	<img src="infographics.jpg" alt="Blanket" style="max-width=100%;"/><br>
+</h1>
 
 ### ABILITY TO ADAPAT AND ACHIEVE EQUALITY
 In the distance learning process, you gain independence to engage with the build quality. Rather than sticking with a set timetable, you should arrange your cognitive development according to your convenience.
