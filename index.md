@@ -1,5 +1,5 @@
 ---
-title: My First Page
+title: Crusaders of Divergence
 layout: default
 ---
 
